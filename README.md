@@ -10,4 +10,8 @@
 * 增加了人物的粒子效果<br>
   在人物的背后会有小星星粒子不断的出现，使人物看起来移动更加生动。
 # 其他信息
-* [NeverGiveUp核心内容开发文档](https://github.com/jocoer/NeverGiveUp/blob/main/doc/%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91.md)
+
+* [NeverGiveUp选题经历文档](./doc/选题经历文档.md)
+
+* [NeverGiveUp核心内容开发文档](./doc/核心机制开发文档.md)
+
